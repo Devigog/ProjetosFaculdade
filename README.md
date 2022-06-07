@@ -1,2 +1,2 @@
 # ProjetosFaculdade
-Neste repositório está meus exercicios feitos na faculdade com o objetivo de aperfeiçoar minha lógica de programação. 
+Neste repositório está meus exercicios na feitos na faculdade utilizando a linguagem de programação Java com o objetivo de aperfeiçoar minha lógica de programação. 
